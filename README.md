@@ -32,10 +32,6 @@
 #### 📫  How to reach me: ...
 vagnerbuzatta@gmail.com
 
-#### 😄  Pronouns: ...
-
-#### ⚡ Fun fact: ...
-
 
 <!--
 **vagnersabadi/vagnersabadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
