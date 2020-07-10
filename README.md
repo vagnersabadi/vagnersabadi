@@ -2,7 +2,7 @@
 > I currently live in Santa Maria-Rs, Brazil and am 27 years old. I am passionate about technology. Since my first `Hello Word`, I always try to learn more and seek new challenges.
 
 #### 🔭  I’m currently working with ...
-> Desenvolvimento Mobile :heart: 
+> Mobile Developer :heart: 
 
 #### 🌱  I’m currently learning ...
 > A little bit of everything, I like to learn new things so, whenever new technology comes out, I'm there running a `Hello Word` :running:
