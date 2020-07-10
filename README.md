@@ -14,20 +14,11 @@
 [awesome-components-ionic](https://github.com/vagnersabadi/awesome-components-ionic)
 
 #### 💬  Ask me about ...
-##### Front-End
-> - Angular; 
-> - VueJS;
-##### Mobile
-> - Ionic;
-> - Flutter;
-##### Back-end
-> - NestJS;
-> - NodeJS;
-##### UI/UX
-> - Desgin;
-##### Storage
-> - Firebase;
-> - NoSQL
+
+|Mobile :iphone:  |Front-end :full_moon_with_face:  |Back-end :new_moon_with_face:  |UI/UX :art: |Storage :cloud: |
+|-----------------|:-------------------------------:|------------------------------:|-----------:|---------------:|
+|  Ionic   |  Angular    |  NodeJS    |  AdobeXD | Firebase |
+|  Flutter |  VueJS      |  NestJS    |  Figma   | NoSQL    |
 
 #### 📫  How to reach me: ...
 vagnerbuzatta@gmail.com
