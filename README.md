@@ -1,5 +1,5 @@
 ### Hello, my name is Vagner Sabadi 👋
-> I currently live in Santa Maria-Rs, Brazil and am 27 years old. I am passionate about technology. Since my first `Hello Word`, I always try to learn more and seek new challenges.
+<!-- > I currently live in Santa Maria-Rs, Brazil and am 27 years old. I am passionate about technology. Since my first `Hello Word`, I always try to learn more and seek new challenges.-->
 
 #### 🔭  I’m currently working with ...
 > Mobile Developer :heart: 
@@ -22,7 +22,6 @@
 
 #### 📫  How to reach me: ...
 vagnerbuzatta@gmail.com
-
 
 <!--
 **vagnersabadi/vagnersabadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
