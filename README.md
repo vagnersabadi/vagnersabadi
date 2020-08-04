@@ -1,13 +1,6 @@
 | [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vagnersabadi&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)   | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vagnersabadi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  |
 |---|---|
 
-<p align="center">
-  Projects i like
-</p>
-
- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vagnersabadi&repo=awesome-components-ionic)](https://github.com/anuraghazra/github-readme-stats)
- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vagnersabadi&repo=ionic-task-planner-app)](https://github.com/anuraghazra/github-readme-stats) 
-
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vagnersabadi&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vagnersabadi)](https://github.com/anuraghazra/github-readme-stats)
