@@ -1,10 +1,16 @@
 <p align="center">
-  <a href="https://github.com/vagnersabadi"><img src="https://github-readme-stats.vercel.app/api?username=vagnersabadi&count_private=true&hide_border=true&show_icons=true" alt="vagnersabadi's github stats"></a>
+  <a href="https://github.com/vagnersabadi"><img src="https://github-readme-stats.vercel.app/api?username=vagnersabadi&count_private=true&hide_border=true&show_icons=true&theme=dark" alt="vagnersabadi's github stats"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/vagnersabadi"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnersabadi&layout=compact&hide_border=true&show_icons=true&count_private=true" alt="vagnersabadi's github stats"></a>
+  <a href="https://github.com/vagnersabadi"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnersabadi&layout=compact&hide_border=true&show_icons=true&count_private=true&theme=dark" alt="vagnersabadi's github stats"></a>
 </p>
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=vagnersabadi&theme=onedark&column=3)](https://github.com/ryo-ma/github-profile-vagnersabadi)
+  
+</div>
 
 
 <!--<p align="center">
