@@ -1,10 +1,10 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/vagnersabadi"><img src="https://github-readme-stats.vercel.app/api?username=vagnersabadi&count_private=true&hide_border=true&show_icons=true&theme=dark" alt="vagnersabadi's github stats"></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/vagnersabadi"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnersabadi&layout=compact&hide_border=true&show_icons=true&count_private=true&theme=dark" alt="vagnersabadi's github stats"></a>
-</p>
+</p> -->
 
 <div align="center">
   
