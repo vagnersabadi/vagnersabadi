@@ -6,7 +6,6 @@ Get in touch 👉 <a href="mailto:vagnersabadi@gmail.com" target="_blank">vagner
 
 [![GitHub vagnersabadi](https://img.shields.io/github/followers/vagnersabadi?label=follow&style=social)](https://github.com/vagnersabadi)
 
-
 ![](https://lh3.googleusercontent.com/drive-viewer/AFGJ81q61rmKjEPaSxeFUPa9lWv1tN2yJHvYKuZ5Tco3BWGX1XEaEFnEx_OpfYzdIZ3O9eEmAdj5xqYBvUCrTXnfsXLNQ6HOpw=s2560)
 
 
@@ -14,6 +13,8 @@ Get in touch 👉 <a href="mailto:vagnersabadi@gmail.com" target="_blank">vagner
 
 - 🔭 I’m currently working as a freelancer for different projects mainly using Angular and Ionic.
 - 🥇 Ionic Developer Specialist
-- 💬 Ask me about Ionic, Angular, Javascript, CSS, Flutter and NodeJS.
+- 🥈 Angular Developer 
+- 🥉 Flutter Developer Enthusiastic
 - 👀 Kotlin | KMP is loading...
+- 💬 Ask me about Ionic, Angular, Javascript, CSS, Flutter and NodeJS.
 
